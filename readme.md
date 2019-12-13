@@ -64,7 +64,7 @@ Access Info
 | -------------- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Google         | 谷歌       | Access google with IPv6. (XJTLU Wi-Fi only)                  | 🔗 [google.com/ncr](https://www.google.com/ncr)               |
 | Google Scholar | 谷歌学术   | Access google scholar with IPv6. (XJTLU Wi-Fi only)          | 🔗 [scholar.google.com](https://scholar.google.com)           |
-| Wi-Fi Clean    | Wi-Fi 清理 | XJTLU Wi-Fi accept only **3 device in 1 account**,<br>clean your Wi-Fi MAC address to fix it. | 🔗 [Click to view](http://wificlean.xjtlu.edu.cn:8080/portal) |
+| Wi-Fi Clean    | Wi-Fi 清理 | XJTLU Wi-Fi accept only **3 devices in 1 account**,<br>clean your Wi-Fi MAC address to fix it. | 🔗 [Click to view](http://wificlean.xjtlu.edu.cn:8080/portal) |
 | ICE            | ICE        | note:<br>1. you can do [self enrollment](asset/document/self-enrollment-student.pdf). | 🔗 [ice.xjtlu.edu.cn](http://)                                |
 
 ### Library
